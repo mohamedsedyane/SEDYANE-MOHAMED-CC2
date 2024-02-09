@@ -1,0 +1,23 @@
+/*exercice1*/
+h1{
+    color: red;
+    text-align: center;
+}
+h2{
+    color: green;
+}
+section h2{
+    color: black;
+}
+img {
+    border: solid;
+    border-radius: 40%;
+}
+/*exercice2*/
+.ex2{
+    width: 280px;
+    height: 280px;
+    background-color: blue;
+    translate: 300px 300px;
+    rotate: 35deg;
+}
